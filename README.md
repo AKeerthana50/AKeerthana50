@@ -64,6 +64,42 @@ An R-based project for analyzing customer feedback, ratings, experience, and res
 
 ---
 
+### 🌾 RURAL NET
+**A Digital Information Platform for Rural Communities**
+
+RURAL NET is a web-based platform designed to organize useful digital information for rural communities in one place. It focuses on areas such as agriculture, employment, weather, health awareness, local events and community news.
+
+#### ✨ Key Modules
+
+- 🌱 **Market Prices** – Agricultural and vegetable market information
+- 📅 **Local Events** – Community events, festivals and awareness programs
+- 💼 **Jobs** – Employment opportunities with qualification and location details
+- 🌦️ **Weather** – Weather-related information
+- 🏥 **Health** – General health awareness information
+- 📰 **News** – Local development, agriculture and government updates
+- 💬 **Feedback** – Users can submit suggestions and feedback
+
+#### 🛠️ Technologies Used
+
+`HTML` `CSS` `JavaScript` `Python` `Flask`
+
+#### 🎯 Objective
+
+To provide a simple and centralized digital platform where rural users can access different categories of useful information through a common website.
+
+#### 🔮 Future Enhancements
+
+- 🗄️ Database integration
+- 🌦️ Live weather APIs
+- 📊 Dynamic market information
+- 👨‍💼 Administrator panel
+- 🌐 Tamil language support
+- 📱 Mobile-responsive design
+- 🔔 Notification system
+- 🔐 User authentication
+
+🔗 **[View RURAL NET Repository](https://github.com/AKeerthana50/rural-net)**
+
 ## 📚 Currently Learning
 
 ```text
